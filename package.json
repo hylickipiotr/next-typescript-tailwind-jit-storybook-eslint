@@ -1,6 +1,6 @@
 {
-  "name": "oko-4.0-cms-client",
-  "description": "Custom OKO.Press CMS client",
+  "name": "next-typescirpt-tailwind-jit-storybook-eslint",
+  "description": "Next.js boilerplate",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
